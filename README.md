@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kING-RURU
-- 👀 I’m interested in coding and freelance 
+- 👀 I’m interested in coding and freelance [I know 5HTML and other versions + CSS quite well got a certificate in it]
 - 🌱 I’m currently learning JAVASCRIPT,PHP, and SQL
 - 💞️ I’m looking to collaborate on some web based projects 
 - 📫 I could be reached through- my mail:samirulz106@gmail.com
